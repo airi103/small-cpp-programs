@@ -8,6 +8,8 @@ small-cpp-programs/
 │   └── quadratics.cpp
 ├── reverse-string/
 │   └── reverse.cpp
-└── rock-paper-scissors/
-    └── rock-paper-scissors.cpp
+├── rock-paper-scissors/
+│   └── rock-paper-scissors.cpp
+└── simple-cat/
+    └── cat.cpp
 ```
